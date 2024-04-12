@@ -1,0 +1,4 @@
+mongo_async_crud/node_modules
+mongo_async_crud/logs/*
+.env
+*.md
